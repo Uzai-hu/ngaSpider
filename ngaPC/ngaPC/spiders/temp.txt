@@ -1,0 +1,5 @@
+//*[@id="topicrows"]//a[@class="topic"]  帖子标题
+//*[@id="topicrows"]//a[@class="topic"]/@href   帖子地址
+//*[@id="topicrows"]//span[@class="titleadd2"] 发帖模块
+//*[@id="topicrows"]//span[@class="ubbcode"]/text() 回复内容
+//*[@id="topicrows"]//span[@class="ubbcode"]/text()
